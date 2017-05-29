@@ -6,7 +6,7 @@
         <input type="text" name="username" value=""><br><br>
      <label>Password</label>   
         <input type="password" name="password" value=""><br>
-        <input type="submit" vlaue="login">
+        <input type="submit" value="login">
 
 </form>
 
